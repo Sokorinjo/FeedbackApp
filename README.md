@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Feedback App
 
 A simple feedback app made with React using create-react-app
 
